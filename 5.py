@@ -10,7 +10,7 @@ for i in a:
         ind = n
     n+=1
 
-
+#test
 if bool(ind):
     a.insert(ind, s)
 else:
