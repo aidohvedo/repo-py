@@ -2,6 +2,7 @@ menu = 0
 s =  0
 num_bd = 1
 a = []
+sd = 0
 while menu != '3':
     menu = input('Введите номер действия:')
     if menu == '2':
