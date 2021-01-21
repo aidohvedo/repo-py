@@ -1,4 +1,4 @@
-
+#
 
 f = open('ex_5.txt', 'w')
 new_list = [str(el) for el in range(1,10)]

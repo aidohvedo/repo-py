@@ -1,5 +1,5 @@
 import re
-
+#
 s = list()
 f = open('ex_6.txt', 'r')
 for line in f:

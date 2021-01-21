@@ -1,6 +1,5 @@
 import json
-
-i = 0
+#
 saldo = 0
 summ_med = 0
 firms = {}

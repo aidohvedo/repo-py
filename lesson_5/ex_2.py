@@ -2,7 +2,7 @@ i = 0
 f = open('test1.txt', 'r')
 s = list(f.readlines())
 f.close()
-
+#
 print (f'Кол-во строк - {len(s)}')
 
 while i < len(s):

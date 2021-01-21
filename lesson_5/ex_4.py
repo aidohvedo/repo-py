@@ -1,6 +1,6 @@
 from translate import Translator
 
-
+#
 f = open('ex_4.txt', 'r')
 s = list(f.readlines())
 f.close()
